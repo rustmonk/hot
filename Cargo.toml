@@ -1,0 +1,9 @@
+[package]
+name = "hihi"
+version = "0.1.0"
+authors = ["rustbae"]
+edition = "2018"
+description = "Hi, description here. See the readme."
+license = "Unlicense"
+
+[dependencies]
